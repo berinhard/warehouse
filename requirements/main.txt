@@ -680,9 +680,9 @@ lxml==4.7.1 \
     # via
     #   -r requirements/main.in
     #   premailer
-mako==1.1.6 \
-    --hash=sha256:4e9e345a41924a954251b95b4b28e14a301145b544901332e658907a7464b6b2 \
-    --hash=sha256:afaf8e515d075b22fad7d7b8b30e4a1c90624ff2f3733a06ec125f5a5f043a57
+mako==1.2.3 \
+    --hash=sha256:7fde96466fcfeedb0eed94f187f20b23d85e4cb41444be0e542e2c8c65c396cd \
+    --hash=sha256:c413a086e38cd885088d5e165305ee8eed04e8b3f8f62df343480da0a385735f
     # via alembic
 markupsafe==2.0.1 \
     --hash=sha256:01a9b8ea66f1658938f65b93a85ebe8bc016e6769611be228d797c9d998dd298 \
