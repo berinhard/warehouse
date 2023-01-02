@@ -900,9 +900,9 @@ pycparser==2.21 \
 pycurl==7.44.1 \
     --hash=sha256:5bcef4d988b74b99653602101e17d8401338d596b9234d263c728a0c3df003e8
     # via -r requirements/main.in
-pygments==2.11.2 \
-    --hash=sha256:44238f1b60a76d78fc8ca0528ee429702aae011c265fe6a8dd8b63049ae41c65 \
-    --hash=sha256:4e426f72023d88d03b2fa258de560726ce890ff3b630f88c21cbb8b2503b8c6a
+pygments==2.14.0 \
+    --hash=sha256:b3ed06a9e8ac9a9aae5a6f5dbe78a8a58655d17b43b93c078f094ddc476ae297 \
+    --hash=sha256:fa7bd7bd2771287c0de303af8bfdfc731f51bd2c6a47ab69d117138893b82717
     # via readme-renderer
 pyjwt[crypto]==2.3.0 \
     --hash=sha256:b888b4d56f06f6dcd777210c334e69c737be74755d3e5e9ee3fe67dc18a0ee41 \
